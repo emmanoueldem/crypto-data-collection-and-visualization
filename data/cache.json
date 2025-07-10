@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Bitcoin",
+    "Symbol": "BTC",
+    "Price (USD)": 111033.0,
+    "24h Change (%)": 1.90064,
+    "7d Change (%)": 1.981267404480041,
+    "Market Cap": 2208921640875,
+    "24h Volume": 37469655974,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "Ethereum",
+    "Symbol": "ETH",
+    "Price (USD)": 2761.88,
+    "24h Change (%)": 5.72219,
+    "7d Change (%)": 7.369049950399815,
+    "Market Cap": 333541228106,
+    "24h Volume": 27126595138,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "Tether",
+    "Symbol": "USDT",
+    "Price (USD)": 1.0,
+    "24h Change (%)": 0.01299,
+    "7d Change (%)": -0.009235604712418488,
+    "Market Cap": 158704369851,
+    "24h Volume": 69350678996,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "XRP",
+    "Symbol": "XRP",
+    "Price (USD)": 2.4,
+    "24h Change (%)": 4.33631,
+    "7d Change (%)": 7.572083395045411,
+    "Market Cap": 142081422161,
+    "24h Volume": 4494341151,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "BNB",
+    "Symbol": "BNB",
+    "Price (USD)": 669.77,
+    "24h Change (%)": 1.23536,
+    "7d Change (%)": 1.4827091290845533,
+    "Market Cap": 97702494036,
+    "24h Volume": 878179723,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "Solana",
+    "Symbol": "SOL",
+    "Price (USD)": 156.2,
+    "24h Change (%)": 2.97138,
+    "7d Change (%)": 2.566721492549629,
+    "Market Cap": 83727705108,
+    "24h Volume": 5392968190,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "USDC",
+    "Symbol": "USDC",
+    "Price (USD)": 0.999951,
+    "24h Change (%)": 0.00746,
+    "7d Change (%)": 0.014986909985258106,
+    "Market Cap": 62372366672,
+    "24h Volume": 11071934272,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "TRON",
+    "Symbol": "TRX",
+    "Price (USD)": 0.290226,
+    "24h Change (%)": 0.90445,
+    "7d Change (%)": 1.9310093319039805,
+    "Market Cap": 27495813824,
+    "24h Volume": 467238433,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "Dogecoin",
+    "Symbol": "DOGE",
+    "Price (USD)": 0.179444,
+    "24h Change (%)": 5.17915,
+    "7d Change (%)": 6.23958517265046,
+    "Market Cap": 26920953272,
+    "24h Volume": 1890897403,
+    "Timestamp": "2025-07-10 03:59:00"
+  },
+  {
+    "Name": "Lido Staked Ether",
+    "Symbol": "STETH",
+    "Price (USD)": 2758.92,
+    "24h Change (%)": 5.66147,
+    "7d Change (%)": 7.3106302774110326,
+    "Market Cap": 25223203799,
+    "24h Volume": 41177572,
+    "Timestamp": "2025-07-10 03:59:00"
+  }
+]
