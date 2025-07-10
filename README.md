@@ -26,6 +26,8 @@ Next steps:
 -Ability to use the tool for other types of data as well
 -Improved graphical interface with more features for the user
 
+MOREUPDATES ARE WILL COME SOON
+
 
 Αποτελεί ένα project με σκοπό σε πρώτη φάση τη συλλογή δεδομένων απο πλατφόρμα  κρυπτονομισμάτων,
 στην συνέχεια την επεξεργασία των δεδομένων αυτών και την αναπαράσταση τους.
